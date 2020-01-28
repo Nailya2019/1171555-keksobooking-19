@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Найля Умирова](https://up.htmlacademy.ru/javascript/19/user/1171555).
-* Наставник: `Неизвестно`.
+* Наставник: `Михаил Полюбай`.
 
 ---
 
